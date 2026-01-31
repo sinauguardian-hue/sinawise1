@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "Posko A",
+    "alamat": "Kabanjahe",
+    "lat": 3.17,
+    "lng": 98.39,
+    "kapasitas": null,
+    "telepon": null,
+    "keterangan": null,
+    "id": "c3ca98722f",
+    "created_at": "2025-12-31T18:16:56.091539+00:00",
+    "updated_at": "2025-12-31T18:16:56.091539+00:00"
+  },
+  {
+    "nama": "sigara gara",
+    "alamat": "sigara gara",
+    "lat": 3.49211,
+    "lng": 98.71048,
+    "kapasitas": 8,
+    "telepon": "081917191011",
+    "keterangan": null,
+    "id": "f2e4683eee",
+    "created_at": "2026-01-02T14:05:34.650937+00:00",
+    "updated_at": "2026-01-02T14:05:34.650937+00:00"
+  }
+]

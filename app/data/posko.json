@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a2a43dc9-e671-4ead-84bf-9eede7065e1c",
+    "nama": "Posko A",
+    "alamat": "Kabanjahe",
+    "lat": 3.17,
+    "lng": 98.39,
+    "kapasitas": 100,
+    "telepon": "0812xxxx",
+    "keterangan": "Tes posko",
+    "created_at": "2026-01-02T16:42:31.130298+00:00",
+    "updated_at": "2026-01-02T16:42:31.130298+00:00"
+  },
+  {
+    "id": "9cc532e5-ebec-4917-b740-629d1b3ef0b4",
+    "nama": "sigara",
+    "alamat": "fara",
+    "lat": 5.855,
+    "lng": 8.8452,
+    "kapasitas": null,
+    "telepon": null,
+    "keterangan": null,
+    "created_at": "2026-01-03T07:40:18.302485+00:00",
+    "updated_at": "2026-01-03T07:40:18.302999+00:00"
+  }
+]
